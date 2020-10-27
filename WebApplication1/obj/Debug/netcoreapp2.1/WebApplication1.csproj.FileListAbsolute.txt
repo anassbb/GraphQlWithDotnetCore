@@ -1,0 +1,15 @@
+C:\Users\anasa\source\repos\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\anasa\source\repos\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.1\WebApplication1.deps.json
+C:\Users\anasa\source\repos\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.1\WebApplication1.runtimeconfig.json
+C:\Users\anasa\source\repos\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.1\WebApplication1.runtimeconfig.dev.json
+C:\Users\anasa\source\repos\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.1\WebApplication1.dll
+C:\Users\anasa\source\repos\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.1\WebApplication1.pdb
+C:\Users\anasa\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.csprojAssemblyReference.cache
+C:\Users\anasa\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.AssemblyInfoInputs.cache
+C:\Users\anasa\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.AssemblyInfo.cs
+C:\Users\anasa\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.RazorAssemblyInfo.cache
+C:\Users\anasa\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.RazorAssemblyInfo.cs
+C:\Users\anasa\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.RazorTargetAssemblyInfo.cache
+C:\Users\anasa\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.dll
+C:\Users\anasa\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.pdb
+C:\Users\anasa\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.genruntimeconfig.cache

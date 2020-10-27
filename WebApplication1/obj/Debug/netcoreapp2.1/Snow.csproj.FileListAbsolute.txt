@@ -1,0 +1,16 @@
+C:\Users\anasa\source\repos\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\anasa\source\repos\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\anasa\source\repos\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.1\Snow.deps.json
+C:\Users\anasa\source\repos\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.1\Snow.runtimeconfig.json
+C:\Users\anasa\source\repos\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.1\Snow.runtimeconfig.dev.json
+C:\Users\anasa\source\repos\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.1\Snow.dll
+C:\Users\anasa\source\repos\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.1\Snow.pdb
+C:\Users\anasa\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\Snow.AssemblyInfoInputs.cache
+C:\Users\anasa\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\Snow.AssemblyInfo.cs
+C:\Users\anasa\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\Snow.csproj.CoreCompileInputs.cache
+C:\Users\anasa\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\Snow.RazorAssemblyInfo.cache
+C:\Users\anasa\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\Snow.RazorAssemblyInfo.cs
+C:\Users\anasa\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\Snow.RazorTargetAssemblyInfo.cache
+C:\Users\anasa\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\Snow.dll
+C:\Users\anasa\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\Snow.pdb
+C:\Users\anasa\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\Snow.genruntimeconfig.cache
